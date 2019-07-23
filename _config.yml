@@ -1,0 +1,137 @@
+# Site settings
+title: Tickmao Blog
+SEOTitle: I'm Tickmao | 一个互联网产品小生
+header-img: img/post-bg-rwd.jpg
+email: lyle.lypm@gmail.com
+description: "关于产品与设计、体验、效率和学习 | Lyle，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Lyle 的个人博客，与你一起发现更大的世界。"
+keyword: "Lyle, Tickmao, pm, 产品, 产品经理, @Lyle, Lyle的博客, Lyle Blog, 博客, 个人网站, 互联网, Web, 程序, UX, 设计, tickmao的博客"
+url: "https://www.tickmao.com/"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+
+
+# SNS settings
+# RSS:
+name: "I'm Tickmao"
+description: "Tickmao's Blog, focus on pm, UX, GTD, App, design, Open Source and so on."
+url: "https://www.tickmao.com"
+
+
+
+weibo_username:     2959377961
+zhihu_username:     di-ta-mu-ou-72
+github_username:    tickmao
+twitter_username:   tick_puppet
+#facebook_username:  Aron Ly
+#linkedin_username:  firstname-lastname-idxxxx
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+  syntax_highlighter_opts:
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+# Disqus settings
+disqus_username: aronlyle
+
+# Netease setttings
+netease_comment: false
+
+
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-110308332-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Stay hungry，Stay foolish。<br>在暗处野蛮生长，待一日馥郁芬香"
+sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+# Catalog settings
+# catalog: true
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Progressive Web Apps
+chrome-tab-theme-color: "#000000"
+service-worker: true
+
+# MathJax rendering for layout:page (e.g. post preview)
+page-mathjax: false
+
+
+# Friends
+friends: [
+    {
+    #     title: "Tickmap blog",
+    #     href: "http://www.tickmao.com/"
+    # },{
+        title: "sspai",
+        href: "https://sspai.com/"
+    },{
+        title: "pmcaff",
+        href: "http://www.pmcaff.com/"
+     },{
+        title: "liqi",
+        href: "http://www.liqi.io/"
+      },{
+        title: "Next",
+        href: "http://next.36kr.com/posts/"
+       },{
+        title: "dayanzai",
+        href: "http://www.dayanzai.me/"
+       },{
+        title: "shuyuan",
+        href: "https://www.imshusheng.space/"
+      },{
+        title: "千千",
+        href: "https://www.dreamwings.cn"
+       }
+]
