@@ -19,12 +19,12 @@ tags:
 
 经常使用 Mac 的用户因为有着 iTerm2 && Oh My Zsh 组合搭建的效果舒适终端使用体验，可是当更换平台至 Windows 时感到一直没有合适的终端效果而遗憾。
 
-最近很热门的提到了 Windows 平台终于有着自己的 Terminal 而吵得热火朝天，但在本人尝试之后，发现其当前还并不够稳定。经常会出现崩溃的情况，抱着折
-腾没有出一款合适的终端工作台怎么都不合适的心态, Windows 平台上不能怎么能有没有优秀的终端出现。
+最近很热门的提到了 Windows 平台终于有着自己的 Terminal 而炒得热火朝天，但在本人尝试之后，发现其当前还并不够稳定。经常会出现崩溃的情况，抱着折
+腾了这么久但却没有发现一款合适的终端工作台怎么都不合适, Windows 平台上怎么能有没有优秀的终端出现的心态。
 
-我之前也玩过 Cmder，虽说比起自带的 cmd 已经强大了很多，但是效果比 iTerm 还是差不少，总感觉不得劲。
+心心念念，必有回响，于是发现了今天的主角 Fluent Terminal 。
 
-心心念念，必有回响，于是发现了今天的主角 Fluent Terminal ，其友好的效果一度让我以为回到了 Mac 上的操作体验。
+我之前也玩过 Cmder，虽说比起自带的 cmd 已经强大了很多，但是效果比 iTerm 还是差不少，总感觉不得劲。Fluent Terminal 其友好的效果却一度让我以为回到了 Mac 上的操作体验。
 
 ### 最终效果图
 
@@ -79,7 +79,7 @@ $DefaultUser = ' 你的用户名 ' #想要隐藏本机用户名还可以添加�
 
 #### 安装字体
 
-使用终端用户用的比较多的是可能是 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) 或者 [FiraCode](https://github.com/tonsky/FiraCode) ，系统安装对应字体后，在设置中选择使用。
+使用终端用户，编辑器用的比较多的字体可能是 [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) 或者 [FiraCode](https://github.com/tonsky/FiraCode) ，系统安装对应字体后，在设置中选择使用。
 
 其他可依据个人喜好在 Fluent Terminal 中设置对应的选项即可。
 
