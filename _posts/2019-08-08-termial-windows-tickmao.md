@@ -40,7 +40,7 @@ tags:
 
 2.当然你可以通过 [Chocolatey](https://chocolatey.org/install) 进行安装。使用 Powershell 执行
 
-```Powershell
+```zsh
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1')); choco feature enable -n allowGlobalConfirmation
 ```
 
@@ -56,21 +56,21 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.We
 
 相应的 Github 官方项目 [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) 中其实有具体的操作步骤
 
-``` Powershell
+```zsh
 Install-Module posh-git -Scope CurrentUser
 Install-Module oh-my-posh -Scope CurrentUser
 ```
 
 想要配置生效，需要创建 PowerShell 的配置文件，通过记事本打开执行 `notepad $PROFILE`。当然如果你安装了 vscode ，也可以通过 `code $PROFILE` 打开。个人推荐使用后者vs code，记得安装vscode时勾选上 `Add to PATH (available after restart)`
 
-```Powershell
+```zsh
 if (!(Test-Path -Path $PROFILE)) {New-Item -Type File -Path $PROFILE -Force}
 notepad $PROFILE
 ```
 
 在配置文件中新增如下几行：
 
-```Powershell
+```zsh
 Import-Module posh-git
 Import-Module oh-my-posh
 Set-Theme Sorin #我使用的主题Sorin，按照你选择的主题设置即可
