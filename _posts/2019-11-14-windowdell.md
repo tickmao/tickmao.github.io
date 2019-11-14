@@ -66,7 +66,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master
 
 为保证系统安全，在设置成功后，按照步骤一再次进入恢复模式，并在终端输入以下命令：
 
-```Zsh
+```zsh
 csrutil enable
 ```
 
