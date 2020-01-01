@@ -4,7 +4,7 @@ title:      "《极致产品》读书笔记"
 subtitle:   "产品经理的价值观和方法论"
 date:       2019-12-30 10:40:00
 author:     "Tickmao"
-header-img: "img/bg-jizhichanpin.jpg.jpg"
+header-img: "img/post-bg-jizhichanpin.jpg"
 header-mask: 0.5
 catalog:     true
 tags:
