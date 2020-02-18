@@ -1,10 +1,10 @@
 # Site settings
-title: Tickmao Blog
+title: Tickmao's Blog
 SEOTitle: I'm Tickmao | 一个互联网产品小生
 header-img: img/post-bg-rwd.jpg
 email: lyle.lypm@gmail.com
-description: "关于产品与设计、体验、效率和学习 | Lyle，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Lyle 的个人博客，与你一起发现更大的世界。"
-keyword: "Lyle, Tickmao, pm, 产品, 产品经理, @Lyle, Lyle的博客, Lyle Blog, 博客, 个人网站, 互联网, Web, 程序, UX, 设计, tickmao的博客"
+description: "关于产品与设计、体验、效率和学习成长 | Tickmao,Web & Mobile Lover,Product Designer,Software Enginee,UX Designer | 这里是 @Tickmao 的个人博客，我们所看到的世界有那么一点点不一样。"
+keyword: "Tickmao, pm, 产品, 产品经理, @tickmao, Tickmao的博客, Tickmao's Blog, 博客, 个人网站, 互联网, Web, 程序, UX, 设计, Product"
 url: "https://www.tickmao.com/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -108,29 +108,19 @@ page-mathjax: false
 
 
 # Friends
-friends: [
-    {
-    #     title: "Tickmap blog",
-    #     href: "http://www.tickmao.com/"
-    # },{
+friends: [{
+        title: "MWKDS",
+        href: "https://www.mwkds.com"
+    },{
         title: "sspai",
         href: "https://sspai.com/"
     },{
         title: "pmcaff",
         href: "http://www.pmcaff.com/"
      },{
-        title: "liqi",
-        href: "http://www.liqi.io/"
-      },{
-        title: "Next",
-        href: "http://next.36kr.com/posts/"
-       },{
         title: "dayanzai",
         href: "http://www.dayanzai.me/"
        },{
-        title: "shuyuan",
-        href: "https://www.imshusheng.space/"
-      },{
         title: "千千",
         href: "https://www.dreamwings.cn"
        }

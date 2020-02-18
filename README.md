@@ -1,4 +1,4 @@
-## **关于Lyle | Tickmao**
+## 关于 Tickmao
 
 源泉、灵感与故事是这个世界上最美好的每件事。
 
@@ -8,31 +8,31 @@
 
 
 
-我是Tickmao，一直致力于坚持原创内容，涵盖我所接触的互联网各个领域。产品灵感、有趣设计、炫酷代码、高效运营，个人价值、时间管理等方法论的内容创作。
+我是 Tickmao，一直致力于坚持原创内容，涵盖我所接触的互联网各个领域。产品灵感、有趣设计、炫酷代码、高效运营，个人价值、时间管理等方法论的内容创作。
 
 > emm…为了自己也为这个美好的世界，我们应该有那么点不一样。
 >
 > ​                                                                                                                       ——Tickmao
 
-### **日常树洞**
+### 日常树洞
 
 博客：https://www.tickmao.com/
 
 
 
-### **设计小练习**
+### 设计小练习
 
 设计：https://dribbble.com/tickmao
 
 
 
-### **技术学习**
+### 技术学习
 
 技术：https://github.com/tickmao
 
 
 
-### **个人小窝**
+### 个人小窝
 
 知乎/微博：[Tickmao](<https://weibo.com/2959377961/>)
 
@@ -40,13 +40,13 @@ B站：[Tickmao](<https://space.bilibili.com/36726543>)
 
 
 
-### **微信公众号**
+### 微信公众号
 
-猫念三旬
+Tickmao
 
 ![](https://i.loli.net/2018/04/15/5ad369298dc0c.jpg)
 
-### **联系博主**
+### 联系博主
 
 邮箱：lyle.lypm@gmail.com
 
@@ -63,3 +63,13 @@ B站：[Tickmao](<https://space.bilibili.com/36726543>)
 >
 
 感谢所有的关注的人，毕竟聚集在这里，说明我们都有着同样地爱好。
+
+## 参与我们
+
+如果有任何想法，可以在 [issue](https://github.com/tickmao/tickmao.github.io/issues) 中告诉我，欢迎各种小伙伴踊跃留言。
+
+## Author
+
+Tickmao ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
+
+Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/Tick_puppet)
