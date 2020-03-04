@@ -37,7 +37,7 @@ SIP 关闭成功后。重启电脑。
 
 在终端输入以下命令回车即可：
 
-```Zsh
+```zsh
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi-zh.sh)"
 ```
 

@@ -28,13 +28,13 @@ tags:
 * EasyList + EasyList China：EasyList 和 EasyList China 是广告过滤的主规则。
   > https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt
 * EasyPrivacy：EasyPrivacy 是隐私保护，不被跟踪。
-  > https://www.runningcheese.com/go?url=https://easylist-downloads.adblockplus.org/easyprivacy.txt
+  > https://easylist-downloads.adblockplus.org/easyprivacy.txt
 * CJX's Annoyance List：过滤烦人的自我推广，并补充EasyPrivacy隐私规则。
-  > https://www.runningcheese.com/go?url=https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
+  > https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 * ChinaListV2.0 ：国内大部分视频网站的广告过滤。
   > http://tools.yiclear.com/ChinaList2.0.txt
 * I don't care about cookies：我不关心 Cookie 的问题，屏蔽网站的 cookies 相关的警告。
-  > https://www.runningcheese.com/go?url=https://www.i-dont-care-about-cookies.eu/abp/
+  > https://www.i-dont-care-about-cookies.eu/abp/
 
 ### 其他规则
 * StevenBlack/hosts(多个规则集合)
@@ -55,3 +55,7 @@ tags:
 2019.09.08
 
 - 博客初拟
+
+2020.03.02
+
+- 更改规则地址
