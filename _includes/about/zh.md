@@ -31,7 +31,7 @@ Hey !
 
 
 
-> you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.”                     
+> you can't connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.”
 >
 > ―[Steve Jobs]
 
@@ -47,7 +47,7 @@ Hey !
 
 > 打赏时，最好附上你的呢称, 同时给Tickmao捎句话吧！
 
-![](http://ww3.sinaimg.cn/large/006tNc79ly1g4ht85mnl2j30ts0fo7ci.jpg)
+![pay.jpg](https://i.loli.net/2020/05/25/9LdQWq5JxKBzsmV.jpg)
 
 
 
