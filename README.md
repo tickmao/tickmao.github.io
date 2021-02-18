@@ -16,7 +16,7 @@
 
 ### 日常树洞
 
-博客：https://www.tickmao.com/
+博客：https://blog.tickmao.com/
 
 
 
@@ -72,4 +72,4 @@ Tickmao
 
 Tickmao ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
 
-Blog @[Tickmao](https://www.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tcikamo)
+Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tcikamo)
