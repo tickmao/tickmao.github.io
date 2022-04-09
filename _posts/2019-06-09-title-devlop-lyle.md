@@ -21,7 +21,7 @@ tags:
 
 ## 原理
 
-使用了HTML5的Page Visibility API，有了API真的是一个很方便的事情啊！连代码都可以优雅的使用了。
+使用了HTML5的Page Visibility API，有了API真的是一个很方便的事情啊！连代码都可以优雅的使用了。
 
 页面可见性API有两个属性，一个事件，如下：
 

@@ -2,7 +2,7 @@
 layout: page
 description: "有些人说不出哪里好，但就是谁也替代不了。"
 ---
-
+<content type="html">{{ article.templateContent | htmlToAbsoluteUrls(absoluteArticleUrl) | utf8_xml }}</content>
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
