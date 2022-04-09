@@ -70,6 +70,6 @@ Tickmao
 
 ## Author
 
-Tickmao ©[Tickmao](https://www.tickmao.com), Released under the MIT License.
+Tickmao ©[Tickmao](https://blog.tickmao.com), Released under the MIT License.
 
 Blog @[Tickmao](https://blog.tickmao.com) · GitHub @[Tickmao](https://github.com/tickmao) · Twitter @[Tickmao](https://twitter.com/tcikamo)

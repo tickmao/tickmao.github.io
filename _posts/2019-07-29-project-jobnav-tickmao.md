@@ -32,7 +32,7 @@ tags:
 
 #### 项目地址
 
-[预览地址](https://www.tickmao.com/jobnav/)
+[预览地址](https://blog.tickmao.com/jobnav/)
 
 **ChangLog**
 
