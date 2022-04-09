@@ -6,7 +6,7 @@
  */
 
 
-var createSnackbar = (function() {
+ var createSnackbar = (function() {
   // Any snackbar that is already shown
   var previous = null;
 
