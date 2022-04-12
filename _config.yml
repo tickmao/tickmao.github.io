@@ -108,8 +108,8 @@ page-mathjax: false
 
 
 # Friends
-Url: [{
-        title: "Social",
+friends: [{
+        title: "Social Area",
         href: "https://about.me/tickmao"
     },{
         title: "RSS",
