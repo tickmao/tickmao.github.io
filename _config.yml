@@ -18,10 +18,11 @@ url: "https://blog.tickmao.com"
 
 
 weibo_username:     2959377961
-zhihu_username:     di-ta-mu-ou-72
+# zhihu_username:     di-ta-mu-ou-72
 github_username:    tickmao
 twitter_username:   tickmao
 #facebook_username:  Aron Ly
+dribbble_username:  tickmao
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -108,13 +109,10 @@ page-mathjax: false
 
 # Friends
 friends: [{
-        title: "sspai",
-        href: "https://sspai.com/"
+        title: "About Me",
+        href: "https://about.me/tickmao"
     },{
-        title: "pmcaff",
-        href: "http://www.pmcaff.com/"
-     },{
-        title: "dayanzai",
-        href: "http://www.dayanzai.me/"
-       }
+        title: "RSS",
+        href: "https://blog.tickmao.com/feed.xml"
+    }
 ]
